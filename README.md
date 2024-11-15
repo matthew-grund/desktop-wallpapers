@@ -1,2 +1,2 @@
 # desktop-wallpapers
-A curation of desktop wallpaper
+A curation of desktop wallpaper images
